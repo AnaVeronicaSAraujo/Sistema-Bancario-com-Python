@@ -9,3 +9,13 @@ O saque só pode ser realizado 3 vezes por dia;
 Há um limite de 500,00 por saque.
 
 O extrato deve mostrar a quantidade de transações realizadas no dia e o saldo.
+
+# Atualização do Programa
+segundo_desafio_sistema_bancario_.py
+
+O novo código apresenta o mesmo sistema, porém com melhorias.
+As operações de saque, depósito e extrato foram implementadas em funções específicas.
+
+Além disso, há novas funções de Cadastrar usuário e Criar nova conta.
+Não é possível repetir o CPF e as contas são criadas a partir do CPF informado.
+
